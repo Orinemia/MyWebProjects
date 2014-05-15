@@ -1,0 +1,70 @@
+dot.rural Hub
+dot.rural is the RCUK Digital Economy Hub focusing on the rural digital economy. Rural areas have specific characteristics that create challenges around issues such as quality of life and wealth creation. These include: small, often dispersed populations; narrow and uneven channels of information flow; rapid change in population structures and economic activity bases; and restricted access to digital infrastructure. We believe that rural areas of the UK can, through the user-led application of digital technology, be more economically, socially and environmentally sustainable. Our aim is to harness the Hub's expertise with a range of partners to realise this ambition. Our activities are organised around four rural challenges: Healthcare, Accessibility & Mobilities, Conservation of Natural Resources, Enterprise & Culture. 
+ Rural settingTechnology research to meet challenges in these areas is focused around natural language generation and affective communication, mechanisms to support reasoning, coordination and collaboration, intelligent information infrastructures, satellite and wireless communications.
+The direct involvement of user-partners as key actors in these activities is critical to ensure that new developments are inclusive, accessible and engaging.
+
+
+Project
+Title: CURIOS: Cultural Repositories & Information Systems
+Image: http://homepages.abdn.ac.uk/dcorsar/pages/webtech/assessment2014/curioussm.jpg
+Description:
+The CURIOS project is about how digital archives can support local interest in local heritage and, in doing so, can contribute to community regeneration and strengthened community cohesion. It will develop software tools to help remote rural communities to collaboratively maintain and present information about their cultural heritage. The objective is to investigate the use of semantic web/ linked data technology to build a general, flexible and “future proof” software platform that could help such projects to come into existence and be sustainable over time.
+
+Title: IRP: Informed Rural Passenger
+Image: http://homepages.abdn.ac.uk/dcorsar/pages/webtech/assessment2014/irpsm.jpg
+Description:
+Millions of pounds have been spent on developing nationwide travel information services but many journey planning scenarios, particularly in rural areas where there may be an underlying lack of potential solutions, cannot be included due to incomplete, missing or inaccurate data.  This project is investigating the use of linked open data to create a transport information ecosystem within which we can explore issues such as data provenance, reliability of pasenger-sourced information, and travel behaviour change. Central to the approach is the use of mobile devices to help instrument the rural transport environment.
+
+
+Title: SMiLE: Smart MIcro-Logistics for the rural Economy
+Image: http://homepages.abdn.ac.uk/dcorsar/pages/webtech/assessment2014/smileLogo.png
+Description:
+SMiLE brings together rural businesses and small-scale logistics service providers to solve the rural logistics and transport problems and more fully utilize the business potential of the rural economy with digital technology in order to:
+- reduce distribution costs
+- improve customer satisfaction
+- improve customer-supplier (B2B) relationships
+- enhance SMEs' responsiveness to new business opportunities
+
+
+Researchers
+
+Name: Gemma Webster
+Bio:
+Gemma Webster is a Research Fellow on the CURIOS and MinkApp projects at dot.rural. Within dot.rural, Gemma’s research focus is Natural Language Generation (NLG) and how digital rural interventions will communicate with and be used by people.Gemma completed her undergraduate degree in computing (2008) and PhD (2011) at the School of Computing, University of Dundee before moving to Lancaster University as a Research Assistant.  Gemma’s research interests include HCI, assistive technology, older adults and dementia.
+Favourite number: 3 
+Project: CURIOS
+ImageURL: http://www.dotrural.ac.uk/sites/default/files/styles/userpicturesstyle/public/pictures/picture-191-1357743716.jpg
+
+
+Name: David Beel
+Bio:
+After completing my undergraduate degree in Geography at the University of Hull and then a masters and PhD at the University of Glasgow again in Geography, I am now a Research Fellow at the University of Aberdeen, working in the Dot.Rural Hub. I have a varied set of academic interests including urban, rural, social and cultural geographies. This has led to specific interests in cultural repositories such as museums, archives, galleries and libraries and the role they play in creating cultural participation in communities.
+Favourite number: Pi
+Project: CURIOS 
+ImageURL: http://www.dotrural.ac.uk/sites/default/files/styles/userpicturesstyle/public/pictures/picture-125-1330397504.jpg
+
+Name: Edoardo Pignotti
+Bio: Edoardo Pignotti is a Research Fellow working on trust and provenance issues in Linked Data at the dot.rural Digital Economy Hub. He has nine years experience in Semantic Web technologies, provenance and policy based reasoning gained during his involvement with a number of UK eScience projects. From 2003 to 2005 he worked as a research assistant for the ESRC-funded FEARLUS-G project where he explored the application of emerging Semantic Web and Grid technologies within the social sciences. His PhD focused on investigating the use of workflow tools enhanced with semantics to facilitate the design, execution, analysis and interpretation of workflow experiments and exploratory studies. One of the main outcomes of this work was a computational framework for reasoning about scientist’s intent as part of a workflow execution environment. From 2010 to 2012 Pignotti was employed as a research fellow on the PolicyGrid II Digital Social Research (DSR) node to investigate issues of provenance in the context of interdisciplinary research projects. As part of this project he developed a framework to support provenance policies that can be used to describe and enact behavioural constraints in a system in order to ensure compliance with user and organisational policies. In January 2010 he was awarded £27K by the eScience Institute in Edinburgh to lead a mini-theme on Provenance and Linked Open Data. The theme brought together stakeholders from academia, government and industry through a number of workshops and events to discuss provenance challenges associated with linked open data, and to highlight future directions for research. Since 2011 he has been involved (as a member) in activities related to the W3C provenance group which is currently working towards a standard language to support the widespread publication and use of provenance information of Web documents, data and resources. Pignotti has published over 20 research papers in leading international journals and peer-reviewed conferences. 
+Favourite number: 13
+ImageURL: http://www.dotrural.ac.uk/sites/default/files/styles/userpicturesstyle/public/pictures/picture-174-1359386644.jpg
+Project: SMiLE
+
+Name: Saskia van der Loo 
+Bio: Currently, Saskia van der Loo is a Research Fellow in Logistic and Transport for the SMiLE project. She studied Physics at the Vrije Universiteit Brussel and obtained a MsC in Economics from the Katholieke Universiteit of Leuven in Belgium. In 2010 she obtained a PhD in Transport Economics at the Katholieke Univesiteit of Leuven in Belgium and worked there as a post-doctoral research fellow until July 2013. During this time she specialized in using mathematical models to address public policy questions such as optimal pricing and investments in transportation networks. Her research interests includes transport economics, cost benefit analysis and urban economics.
+Favourite number: 3.14
+ImageURL: http://homepages.abdn.ac.uk/dcorsar/pages/webtech/assessment2014/svdl.jpeg
+Project: SMiLE
+
+
+Name: Paul Gault
+Bio:
+PhD from School of Computing, University of Dundee. Background in Interactive Media Design at Duncan of Jordanstone College of Art & Design. My interest lay in exploring how an ethnographic understanding of people’s lived experience can be brought into design and business. This is concerned with the emerging field of design ethnography focusing on how experience research can help deliver value and be effectively deployed across a large organization. Current work involves developing frameworks to support the gathering of fieldwork data across large groups of non-specialists and providing platforms for cross-disciplinary creative thinking to flourish.
+Favourite Number: 11
+ImageURL: http://interaction.dundee.ac.uk/~pgault/wordpress/wp-content/uploads/2010/09/paul_two_web-300x300.jpg
+Project: IRP
+
+Name: David Corsar
+Bio:
+David received his PhD in Computing Science from University of Aberdeen (2009), which defined a methodology and tools for developing knowledge-based systems by reusing models of domain knowledge and problem solving, using ontology mapping and knowledge acquisition techniques.  He is currently a research fellow at the dot.rural Digital Economy Hub on the Informed Rural Passenger project. Research focuses on intelligent information infrastructures, based on Semantic Web technologies, applied to a crowd-sourced real-time passenger information system being trialled in UK rural areas where such systems don’t exist, giving potential for significant societal and economic impact.  Previous to this, he was a research fellow on the EU-funded ALIVE project where my research focused on aligning social models of organisations with computational plans that could enacted by agents using web-services to perform tasks currently performed by organisation staff.  He was £1500 award for Linked Data and Personal Privacy case study from FRRICT project; W3C Provenance Working Group invited expert, co-author of published PROV-O recommendation; co-organiser of Trust & the Digital Economy”workshop at British Science Festival 2012, and UK e-Science Institute funded “Provenance & the Web of Linked Data” mini-theme; he won best poster at EKAW 2012 and best technical paper at BCS SGAI 2005 conferences.
+Favourite Number: i
+ImageURL: http://homepages.abdn.ac.uk/dcorsar/pages/webtech/assessment2014/dc.jpg
